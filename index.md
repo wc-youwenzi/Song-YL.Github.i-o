@@ -1,18 +1,20 @@
-# Welcome to SongYilLin's website
-## _个人简介_
-### 基本信息:earth_africa:
-##### 姓名：宋轶霖
-##### 性别：男
-##### 出生年月：2002.12.12
-##### 民族：汉
-##### 所在院校：南京理工大学
-##### 所属学院：设计艺术与传媒学院
-##### 爱好
-   健身 :walking:
-   篮球 :basketball:
-   跑步 :running_man: 
-   
-   <img src="https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=false&word=%E7%A7%91%E6%AF%94&hs=2&pn=0&spn=0&di=3780&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=3322823105%2C1421975995&os=3712514974%2C3418558637&simid=3440956656%2C194034909&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=star&bdtype=11&oriquery=%E7%A7%91%E6%AF%94&objurl=http%3A%2F%2Fwx2.sinaimg.cn%2Fcrop.0.0.1200.667%2F007raNBoly1gi1stk5cd2j30xc0ip45s.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fojtk5_z%26e3Bv54AzdH3Fmb899m9bcaAzdH3FJigJtcenP%3Fu654%3Drw2j_8aacac09bc9ndldl_r65utsj%26oe6%3Dm%26451%3Dojtk5pt4j&gsm=1&islist=&querylist=" width="20%">
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>宋轶霖</h1>
+      <p><b>本科生大一</b></p>
+      <p><b>南京理工大学设传学院</b></p>
+      <p><b>邮箱：1743652040@qq.com</b></p>
+      <p><b>地址：南京市玄武区</b></p>
+      <p><b>出生年月：2002.12.12</b></p>
+      <p><b>爱好：篮球，健身</b></p>
+    </td>
+    <td width="25%">
+      <img src="https://github.com/wc-youwenzi/wc-youwenzi.Github.io/blob/gh-pages/IMG_PITU_20201212_223758.jpg" width="100%">  
+    </td>
+  </tr>
+</table>
+   <img src="" width="20%">
 
 ### 联系方式：
     qq：1743652040
@@ -38,6 +40,8 @@ _素描 高等数学 计算思维 形式政治 色彩 设计概论
 
 高二全市机器人竞赛二等奖 
 
+现任南京理工大学双创协会干事
+ <img src="https://github.com/wc-youwenzi/wc-youwenzi.Github.io/blob/gh-pages/IMG_PITU_20201213_091020.jpg" width="100%">  
 ### 交友问答
 是否喜欢去扩大自己的交友圈：
 - [x] 是
